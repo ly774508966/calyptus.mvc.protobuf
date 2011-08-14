@@ -1,0 +1,6 @@
+.DS_Store
+*.suo
+*.user
+bin
+obj
+TestResults
